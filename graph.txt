@@ -1,0 +1,14 @@
+#C:\Users\dnsuser\AppData\Roaming\Python\Python39\site-packages\ipykernel_launcher.py -f C:\Users\dnsuser\AppData\Roaming\jupyter\runtime\kernel-4620c2ab-c382-4191-8c2c-059c1e76d94c.json
+# GMT Wed May 12 12:58:01 2021
+# 
+1 2 3 4
+2 3 4
+3 4
+4
+5 6 7 8
+6 7
+7 8
+8
+9
+10
+11
